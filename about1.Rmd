@@ -1,0 +1,52 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+I entered the PhD program in the fall of 2020 with a Bachelor’s degree in 
+Neuroscience and Psychology from NYU and a Master’s degree in Public Health from 
+the Geisel School of Medicine at Dartmouth. My coursework has focused on 
+biostatistics, geospatial mapping, molecular epidemiology, and toxicology. 
+
+Below are some of my relevant work experiences:
+
+| ALS Research Program Coordinator
+| Department of Neurology
+| Dartmouth-Hitchcock Medical Center
+| Principal Investigator: Elijah W. Stommel, MD, PhD 
+<br> 
+
+| Research Assistant
+| The Preference Laboratory
+| The Dartmouth Institute for Health Policy and Clinical Practice 
+| Principle Investigator: Glyn Elwyn, MD, PhD, MSc 
+<br> 
+
+| Lab Manager/Research Assistant
+| Human Adult Neurogenesis Laboratory 
+| NY State Psychiatric Institute, Department of Molecular Imaging and 
+| Neuropathology 
+| Principal Investigator: Maura Boldrini, MD, PhD
+<br> 
+
+| Teaching Assistant for course on Child and Adolescent Psychopathology
+| New York University
+| Supervisor: Jess Shatkin, MD, MPH
+<br> 
+
+| Research Assistant
+| The LeDoux Lab at the Center for Neural Science
+| New York University
+| Principle Investigator: Joseph LeDoux, PhD
+<br> 
+
+| Research Assistant
+| Department of Biology
+| New York University
+| Principle Investigator: Efrain Azmitia, PhD
+<br> 
+
+Lets head back to the [index](index.html) page.
