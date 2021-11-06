@@ -11,6 +11,8 @@ navbar:
       href: http://github.com/tanyahbutt/
     - icon: fa-twitter fa-lg
       href: https://twitter.com/tanyabuttiscool
+    - icon: fab fa-researchgate
+      href: https://www.researchgate.net/profile/Tanya-Butt
 output:
   html_document:
     theme: cerulean
