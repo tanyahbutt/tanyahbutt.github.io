@@ -32,7 +32,7 @@ instacart %>%
           colors = "viridis") %>% 
   layout(title = 'Number of Products with > 10,000 Orders by Aisle',
          xaxis = list(title = 'Aisle Name'), 
-         yaxis = list(title = 'Number of Products'))
+         yaxis = list(title = 'Number of Products Ordered'))
 ```
 
 Column {data-width=400}
@@ -48,7 +48,7 @@ scatterplot = instacart %>%
   labs(
     title = "Number of Products Ordered by Department ",
     x = "Department",
-    y = "Number of Prodcuts",
+    y = "Number of Prodcuts Ordered",
     caption =  "Data from Instacart"
   ) +
   theme(axis.text.x = element_text(angle = 90)) +
@@ -68,6 +68,6 @@ instacart  %>%
           colors = "viridis") %>% 
   layout(title = 'Top 10 Products Ordered',
          xaxis = list(title = 'Product Name'), 
-         yaxis = list(title = 'Number of Products'))
+         yaxis = list(title = 'Number of Products Ordered'))
 ```
 
