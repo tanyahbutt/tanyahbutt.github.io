@@ -21,7 +21,6 @@ force(instacart)
 Column {data-width=600}
 -----------------------------------------------------------------------
 
-
 ### Chart A
 
 ```{r, collapse=TRUE}
