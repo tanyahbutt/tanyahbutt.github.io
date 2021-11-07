@@ -42,8 +42,8 @@ Column {data-width=400}
 
 ```{r, collapse = TRUE}
 scatterplot = instacart %>% 
-  count(department, name = "department_id") %>% 
-  ggplot(aes(x = department, y = department_id)) +
+  count(department, name = "number_of_products") %>% 
+  ggplot(aes(x = department, y = number_of_products)) +
   geom_point() +
   labs(
     title = "Number of Products Ordered by Department ",
